@@ -1,0 +1,13 @@
+ScrollReveal().reveal('.navbar', {delay:250});
+ScrollReveal().reveal('#header', {delay:500});
+ScrollReveal().reveal('#destacados', {delay:750});
+ScrollReveal().reveal('.shirt-1', {delay:750});
+ScrollReveal().reveal('.box-shipping', {delay:750});
+ScrollReveal().reveal('.payment-methods', {delay:820});
+ScrollReveal().reveal('.title', {delay:500});
+ScrollReveal().reveal('.paragraph', {delay:750});
+ScrollReveal().reveal('.title-contact', {delay:700});
+ScrollReveal().reveal('.formulario', {delay:750});
+ScrollReveal().reveal('.followage', {delay:970});
+ScrollReveal().reveal('.title-ubi', {delay:800});
+ScrollReveal().reveal('.map-ubi', {delay:900});
